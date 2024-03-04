@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hii
+=======
+Hii!!
+>>>>>>> be22c9973ac865fdbc1220419289825ed2729f7f
 Today is a good day
